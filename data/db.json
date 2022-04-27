@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Test2",
+      "body": "nothing",
+      "author": "red",
+      "id": 2
+    },
+    {
+      "title": "Test3",
+      "body": "mid",
+      "author": "fred",
+      "id": 3
+    },
+    {
+      "title": "my blog",
+      "body": "just",
+      "author": "mario",
+      "id": 4
+    },
+    {
+      "title": "My navigation test",
+      "body": "just a navigation",
+      "author": "yoshi",
+      "id": 9
+    }
+  ]
+}
