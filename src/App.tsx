@@ -24,8 +24,4 @@ function App() {
   );
 }
 
-//commands to run
-//npx json-server --watch data/db.json --port 8000
-//yarn start
-
 export default App;
